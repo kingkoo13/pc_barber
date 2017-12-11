@@ -1,9 +1,9 @@
 <div class="progress-main-div1">
                         <div class="col-md-12">
-                            Updated version of this script is available at <a href="https://www.webprojectbuilder.com/item/user-login-and-management/?ref=local" target="_blank">www.webprojectbuilder.com</a><br> 
+                            kingkoo13@gmail.com<a href="" target="_blank">CODING</a><br> 
                         </div>
 </div> 
-          <footer class="main-footer">This project is created using <a href="https://www.webprojectbuilder.com/item/user-login-and-management/?ref=local">Web Project Builder</a>. An online php code builder tool.</footer>
+          <footer class="main-footer"><a href=""></a></footer>
     <!-- /.control-sidebar -->
   <!-- Add the sidebar's background. This div must be placed
        immediately after the control sidebar -->
